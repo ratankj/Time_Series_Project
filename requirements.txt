@@ -1,0 +1,10 @@
+matplotlib
+numpy
+seaborn
+holidays
+scikit-learn
+catboost
+xgboost
+lightgbm
+category_encoders
+requests
